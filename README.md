@@ -1,5 +1,4 @@
 # Super-Heroes
-Human Identification using Binary Classification
 
 Problem Statement:
 
